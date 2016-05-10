@@ -32,6 +32,13 @@
     <Compile Include="PandaTest.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Plotting.py" />
+    <Compile Include="softmax.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Syntax.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="WordCount.py">
       <SubType>Code</SubType>
     </Compile>
