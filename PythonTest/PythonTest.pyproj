@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>28618eb7-171a-415a-becd-920a09e0f521</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PandaTest.py</StartupFile>
+    <StartupFile>WordCount.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -40,6 +40,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Syntax.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="WordCount.py">
