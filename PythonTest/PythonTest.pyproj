@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>28618eb7-171a-415a-becd-920a09e0f521</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>WordCount.py</StartupFile>
+    <StartupFile>InsertionSort.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GraphTest.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InsertionSort.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="NumberMath.py">
