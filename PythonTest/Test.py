@@ -85,6 +85,6 @@ for k, v in sorted(orders.items(), key=operator.itemgetter(1)):
                     orders[k] -= available_units
 
 for k in sorted(allocations.keys()):
-    print k, allocations[k]
+    print(k, allocations[k])
             
     

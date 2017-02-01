@@ -18,7 +18,7 @@ dictionary = {'one': 1, 'two': 2, 'three': 3}
 variable_with_zero_data = None
 
 #Simple Logging
-print "Printed!"
+print("Printed!")
 Conditionals
 if cake == "delicious":
     answer = "Yes please!"
@@ -29,7 +29,7 @@ else:
 
 #Loops
 for item in list:
-    print item
+    print(item)
 
 while (total < max_val):
     total += values[i]
@@ -43,7 +43,7 @@ def divide(dividend, divisor):
 
 def calculate_stuff(x, y):
     (q, r) = divide(x,y)
-    print q, r
+    print(q, r)
 
 #Classes
 class Person(object):
